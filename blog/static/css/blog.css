@@ -69,3 +69,14 @@ h4 {
     color: #FFFFFF;
     background-color: #C25100;
 }
+.logout-button {
+    background: none;
+    border: none;
+    color: #ffffff; /* Match your header link color */
+    font-family: 'Lobster', cursive;
+    font-size: 26pt;
+    cursor: pointer;
+    display: inline;
+    padding: 0;
+    margin-right: 20px;
+}
